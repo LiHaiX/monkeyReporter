@@ -1,0 +1,14 @@
+{
+  "blackName":[
+    "ANRException",
+    "OutOfMemoryError",
+    "Resources$NotFoundException",
+    "SecurityException"
+  ],
+  "mapping":{
+    "forceRefresh":false,
+    "atom_version": 86,
+    "url":"http://cmyum.corp.qunar.com/mobile_app/android/m_adr_spider/spider_atom/m_adr_atom_flight/tags/r-160727-104745-billy.zhang/mapping.txt"
+  }
+
+}
